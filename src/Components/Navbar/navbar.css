@@ -1,0 +1,17 @@
+.ul{
+   display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #7f5539;
+  width: 100%;
+  font-size: 4rem;
+  font-family: "Merienda";
+   margin-bottom: 5%;
+   list-style-type: none;
+   margin-block-start: 0;
+   color: white;
+   padding: 3rem;
+}
+.compteur{
+   font-size: 2rem;  
+}

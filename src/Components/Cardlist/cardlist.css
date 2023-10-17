@@ -1,0 +1,12 @@
+.container {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-template-rows: repeat(auto, 5vw);
+grid-gap: 3rem;
+width: 80%;
+margin: 0 auto;
+}
+.boutton{
+    font-size: 1rem;
+    background-color: orange;
+}
